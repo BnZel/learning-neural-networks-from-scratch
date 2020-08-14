@@ -181,7 +181,7 @@ Synapse(weight:0.7409768247285551, left:Neuron(i:4, input:0.0, output:1.0), righ
 └───────────────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 ## Integrating the UI
-![demo-gif](demo-purposes/demo.gif)
+![demo-gif](demo.gif)
 
 Although the tutorial did provide a GUI, the custom UI was soley for the purpose of how the network processes data while running. 
 
