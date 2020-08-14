@@ -190,7 +190,7 @@ Breakdown of the UI:
 * **Network Display**: displaying the network architecture and the hyperparameters
 * **Training Data**: shows what the network is reading during the iteration of each data row
 * **Epoch, MSE, Output, Expected**: per epoch, the error, what the output is, and the expected output
-* **Epochs**: progress bar, would be able to quit anytime with keyboard command **Q** 
+* **Epochs**: progress bar, would be able to quit anytime with keyboard command **Q**, the program will end once the progress bar reaches to its max
 * **Layer 0 to Layer 1 (Delta, Batch Delta Weight)** and **Layer 1 to Layer 2 (Delta, Batch Delta Weight)**: shows weight data of which synpases has a large negative effect 
 
 The speed of the program can be adjusted in the **terminal inkey(timeout=)** of **__init__.py**:
